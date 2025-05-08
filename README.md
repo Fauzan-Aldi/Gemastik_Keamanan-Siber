@@ -1,1 +1,1 @@
-# Gemastik_Keamanan-Siber-Anya-Haha-Inakute-Sabishii
+## CTF ini berisi berbagai tantangan keamanan siber yang membutuhkan keterampilan reverse engineering, file analysis, hingga network forensics. Kami berhasil menyelesaikan beberapa soal penting dengan pendekatan teknikal dan scripting
