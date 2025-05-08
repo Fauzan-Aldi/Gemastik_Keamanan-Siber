@@ -55,6 +55,3 @@ Menganalisis file HAR (HTTP Archive) dari sesi browser. Mengambil file `.fig` da
 
 🧠 Kompetisi ini menuntut analisis menyeluruh terhadap sistem, manipulasi data rendah level, serta ketelitian dalam menyusun eksploitasi secara logis dan otomatis. Setiap tantangan berhasil diselesaikan dengan perpaduan deduksi teknis dan scripting Python.
 
----
-
-Perlu dijadikan dalam format dokumen atau presentasi juga?
